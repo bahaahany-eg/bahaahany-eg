@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bahaahany-eg
 - 👀 I’m interested in IOS Mobile Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SwiftUI
+- 📫 To reach me +201222764533
 
 <!---
 bahaahany-eg/bahaahany-eg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
