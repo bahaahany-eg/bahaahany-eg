@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahaahany-eg
 - 👀 I’m interested in IOS Mobile Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Flutter
 - 📫 To reach me +201222764533
 
 <!---
